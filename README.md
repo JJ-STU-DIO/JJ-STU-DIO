@@ -1,4 +1,4 @@
-## Hi there, i`m beginner game developer
+## Hi, I`m Arthur, game developer and computer graphics enthusiast
 
 
 ### Languages and  Tools
@@ -8,5 +8,7 @@
 ![Java](https://img.shields.io/badge/-java-090909?style=for-the-badge&logo=java&logoColor=784f02)
 
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juice-artur&count_private=true&show_icons=true)
+
+- 🌱 I’m currently learning **Vulkan Api** and **C++**
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juice-artur&repo=vulkan-renderer)](https://github.com/juice-artur/vulkan-renderer)
