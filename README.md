@@ -10,5 +10,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juice-artur&count_private=true&show_icons=true)
 
-- 🌱 I’m currently learning **Vulkan Api** and **C++**
+  🌱 I’m currently learning **Vulkan Api** and **C++**
+  ---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juice-artur&repo=vulkan-renderer)](https://github.com/juice-artur/vulkan-renderer)
