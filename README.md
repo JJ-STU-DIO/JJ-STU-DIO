@@ -13,8 +13,7 @@
 ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
 ![Vulkan](https://img.shields.io/static/v1?style=for-the-badge&message=Vulkan&color=AC162C&logo=Vulkan&logoColor=FFFFFF&label=)
 ![Unreal Engine](https://img.shields.io/static/v1?style=for-the-badge&message=Unreal+Engine&color=0E1128&logo=Unreal+Engine&logoColor=FFFFFF&label=)
-![csharp](https://img.shields.io/badge/-c%23%20-090909?style=for-the-badge&logo=csharp&logoColor=600278)
-
+![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juice-artur&count_private=true&show_icons=true)
 
