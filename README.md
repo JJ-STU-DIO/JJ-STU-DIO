@@ -4,7 +4,8 @@ Here I explore the world of graphics APIs such as Vulkan and OpenGL
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/artur-dzhus-13998623b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="artur-dzhus-13998623b" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/artur-dzhus-13998623b" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="artur-dzhus-13998623b" height="auto" width="auto" /></a>
+  <a href="https://t.me/juice_artur" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=" alt="Telegram" height="auto" width="auto" /></a>
 </p>
 
 ---
