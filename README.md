@@ -20,4 +20,4 @@ Here I explore the world of graphics APIs such as Vulkan and OpenGL
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juice-artur&count_private=true&show_icons=true)
 
 ---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juice-artur&repo=vulkan-renderer)](https://github.com/juice-artur/vulkan-renderer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juice-artur&repo=JuicyEngine)](https://github.com/juice-artur/JuicyEngine)
